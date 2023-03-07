@@ -1,5 +1,7 @@
 # DEMO
 ## https://fullstack-ecommerce-sanity-stripe.vercel.app/
+### to test payment use 4242 or 42 on every input in checkout page
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
